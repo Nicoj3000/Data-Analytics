@@ -1,6 +1,5 @@
-# Scripts Adviser - Reacreditación Institucional
+# Scripts  
 
-Sistema de análisis de datos para el proceso de reacreditación institucional de la Universidad Libre - Seccional Pereira.
 
 ## Descripción
 
@@ -75,5 +74,3 @@ Este proyecto maneja información confidencial de la Universidad Libre. Todo el 
 
 ---
 
-**Universidad Libre - Seccional Pereira**
-*Proceso de Reacreditación Institucional 2025*
